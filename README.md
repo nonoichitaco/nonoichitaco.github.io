@@ -1,3 +1,3 @@
 # nonoichitaco.github.io
 
-- [test](/test/test.md)
+- [test](/stylesheets/test.md)
